@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://SBlines.github.io//github/atom.xml" rel="self"/>
   <link href="http://SBlines.github.io//github/"/>
-  <updated>2013-09-17T11:43:02-04:00</updated>
+  <updated>2013-09-17T11:48:05-04:00</updated>
   <id>http://SBlines.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,9 @@
     <link href="http://SBlines.github.io//github/blog/2013/09/17/first-post/"/>
     <updated>2013-09-17T11:33:00-04:00</updated>
     <id>http://SBlines.github.io//github/blog/2013/09/17/first-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>This is the first post H1</p>
+
+<p>I had a problem getting Rails set up last night but it worked today when Nimit tried. After that I was able to figure out the rest of the procedure in getting things going.</p>
 ]]></content>
   </entry>
   
